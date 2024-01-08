@@ -10,7 +10,6 @@ import {
 
 // The task is to write an application to find out which bus lines that have the most bus stops on their route, and to present the top 10 bus lines in a nice and formatted way in a web browser. The web page should show the names of every bus stop for each of the bus lines in the top 10 list. There are no requirements how the bus stops are sorted.
 
-// I choose to not use typescript since it was a very small project and I wanted to save time. Same thing when it comes to testing.
 const Spinner = () => (
   <svg
     aria-hidden="true"
