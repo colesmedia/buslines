@@ -16,3 +16,8 @@ To run the React application navigate into the root folder and type the command:
 For the fetch to work you have to run the server also, do that by using the following command from the root folder:
 
 `node ./server/app.js`
+
+Create a `.env` file in the root of your project with the following variables:
+
+`PORT=3000 
+API_KEY=123123`
