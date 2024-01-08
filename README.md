@@ -18,6 +18,6 @@ To avoid CORS issues you have to run this small node server. From the root run t
 
 `node ./server/app.js`
 
-To start the React application navigate into the root folder and run the command:
+To start the React application navigate to the root and run:
 
 `npm run dev`
