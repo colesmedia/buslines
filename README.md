@@ -19,5 +19,5 @@ For the fetch to work you have to run the server also, do that by using the foll
 
 Create a `.env` file in the root of your project with the following variables:
 
-`PORT=3000 
-API_KEY=123123`
+`PORT=3000`
+`API_KEY=yourapikey`
