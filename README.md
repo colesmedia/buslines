@@ -26,7 +26,7 @@ Create a `.env` file in the root of your project with the following variables:
 
 To avoid CORS issues you have to run this small node server. From the root run the following command:
 
-`node ./server/app.js`
+`node server/app.js`
 
 To start the React application navigate to the root and run:
 
